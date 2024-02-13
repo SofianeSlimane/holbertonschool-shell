@@ -1,3 +1,4 @@
 #!/bin/bash
-mv betty /holbertonschool-shell/basics/tmp/my_first_directory/betty
+mv /holbertonschool-shell/basics/tmp/betty /holbertonschool-shell/basics/tmp/my_first_directory/betty
+
 
