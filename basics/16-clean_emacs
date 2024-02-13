@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp/sym$/ -type f -name '*~' -exec rm {} +
+rm /tmp/test_emacs/*~
