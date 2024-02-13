@@ -1,2 +1,2 @@
 #!/bin/bash
- find . -type f -name "*.html" -exec cp -u /holbertonschool-shell {} +
+cp -u /tmp/test_html/*.html /tmp/
