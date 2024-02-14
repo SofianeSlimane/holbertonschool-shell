@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff /holbertonschool-shell/permissions
+chown -R vincent:staff folder1 folder2 file1 file2
