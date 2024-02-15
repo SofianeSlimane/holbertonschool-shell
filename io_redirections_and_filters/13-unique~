@@ -1,0 +1,2 @@
+#!/bin/bash
+cat listwords | sort |uniq -u
