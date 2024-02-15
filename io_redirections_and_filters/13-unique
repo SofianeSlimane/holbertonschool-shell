@@ -1,2 +1,2 @@
 #!/bin/bash
-cat listwords | sort --ignore-case | uniq -u
+sort listwords | uniq -u
