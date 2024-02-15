@@ -1,2 +1,2 @@
 #!/bin/bash
-sort listwords | uniq -u
+sort list | uniq -u
