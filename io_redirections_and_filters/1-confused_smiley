@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "(Oo)"
+printf "\"(Ôo)'\n"
+
