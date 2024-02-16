@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Cette phrase est un test AcAcAcAcAcACEFKHEZF" | tr Ac Ze
+echo "Cette phrase est un test AcAcAcAcAcACEFKHEZF" | tr 'Ac' 'Ze'
