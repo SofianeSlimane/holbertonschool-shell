@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Cette phrase est un test A c" >  replaceinput | tr "A-c" ["Z-e"]
